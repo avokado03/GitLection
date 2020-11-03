@@ -8,5 +8,6 @@ namespace GitLection
 {
     public class Class1
     {
+
     }
 }
