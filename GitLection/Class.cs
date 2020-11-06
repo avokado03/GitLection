@@ -10,6 +10,6 @@ namespace GitLection
     {
         public int MyProperty { get; set; }
 
-        public string MyProperty2 { get; set; }
+        const string CONST = "Hello, Git!";
     }
 }
