@@ -11,5 +11,7 @@ namespace GitLection
         public int MyProperty { get; set; }
 
         const string CONST = "Hello, Git";
+
+        public int Prop { get; set; }
     }
 }
