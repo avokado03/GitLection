@@ -8,8 +8,6 @@ namespace GitLection
 {
     public class Class
     {
-        public long MyProperty { get; set; }
 
-        const string CONST = "Hello, Git!";
     }
 }
