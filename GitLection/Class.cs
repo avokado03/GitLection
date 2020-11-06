@@ -9,5 +9,7 @@ namespace GitLection
     public class Class
     {
         public long MyProperty { get; set; }
+
+        public int MyProperty2 { get; set; }
     }
 }
